@@ -1,0 +1,9 @@
+*~
+*.o
+rasm
+*.bin
+*.bin.ref
+*.kate-swp
+*.out
+*.d
+*.so
